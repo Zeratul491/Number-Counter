@@ -1,3 +1,4 @@
+                                            Written in PYTHON 3
 import random
 import time
 
